@@ -10,7 +10,7 @@
 - Snap-to-grid layout system
 - Object Explorer to manage interface components
 - Property Editor for customizing widget behavior
-- Real-time preview mode
+- Realtime preview mode
 
 ### Requirements
 - Python 3.7+
