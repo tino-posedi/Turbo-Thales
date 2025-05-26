@@ -32,7 +32,7 @@ Turbo Thales drastically reduces the time needed to create professional-grade in
 - Rasterfang für präzises Layout
 - Objekt Explorer zur Verwaltung der UI Komponenten
 - Eigenschaftseditor zur Anpassung von Widget Eigenschaften
-- Live Vorschau der Benutzeroberfläche
+- Vorschau der Benutzeroberfläche in Echtzeit
 
 ### Voraussetzungen
 - Python 3.7+
