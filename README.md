@@ -17,6 +17,9 @@
 - Tkinter (as backend rendering engine)
 - Thales (must be installed separately)
 
+### Why Turbo Thales?
+Turbo Thales drastically reduces the time needed to create professional-grade industrial interfaces.
+
 ---
 
 ## Deutsch
@@ -35,6 +38,9 @@
 - Python 3.7+
 - Tkinter (als Backend für die Anzeige)
 - Thales (muss separat installiert werden)
+
+### Warum Turbo Thales?
+Turbo Thales erhöht die Produktivität des Entwicklers um ein Vielfaches – besonders bei der Entwicklung industrieller Interfaces.
 
 ---
 
