@@ -24,7 +24,7 @@ Turbo Thales drastically reduces the time needed to create professional-grade in
 
 ## Deutsch
 
-**Turbo Thales** ist ein leistungsstarker GUI Builder zur Erstellung industrieller Benutzeroberflächen mit Python. Er bietet eine intuitive Drag & Drop Oberfläche zur visuellen Platzierung und Konfiguration von Widgets – ideal für Dashboards, Steuerpulte und Überwachungssysteme.
+**Turbo Thales** ist ein leistungsstarker GUI Builder zur Erstellung **industrieller Benutzeroberflächen** mit Python. Er bietet eine intuitive Drag & Drop Oberfläche zur visuellen Platzierung und Konfiguration von Widgets – ideal für Dashboards, Steuerpulte und Überwachungssysteme.
 
 ### Funktionen
 - Visuelles Design industrieller Benutzeroberflächen
