@@ -36,7 +36,10 @@
 - Tkinter (als Backend für die Anzeige)
 - Thales (muss separat installiert werden)
 
+---
+
 ![image](https://github.com/user-attachments/assets/2a851212-d794-4903-8aa4-23d7c0585a2a)
 
 ![image](https://github.com/user-attachments/assets/6ad42984-7ded-4e04-8867-6690f538e3aa)
 
+---
